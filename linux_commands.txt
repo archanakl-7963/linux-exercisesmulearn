@@ -1,0 +1,11 @@
+pwd
+ls
+mkdir mylinux
+cd mylinux
+touch file1.txt
+ls
+cp file1.txt file2.txt
+mv file2.txt newfile.txt
+cat file1.txt
+rm newfile.txt
+clear
